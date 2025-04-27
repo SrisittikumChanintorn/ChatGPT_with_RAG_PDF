@@ -1,6 +1,5 @@
 langchain_community==0.3.21     # Community-maintained LangChain components
 langchain_openai==0.3.12        # OpenAI support for LangChain chains/tools
-anthropic==0.49.0               # Official Anthropic API client
 pymupdf==1.25.5                 # Lightweight PDF parser (used for text extraction)
 chromadb==0.5.3                 # Local vector store; verify runtime and embedding compatibility
 openai==1.68.2                  # OpenAI API bindings (includes newer model support)
