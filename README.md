@@ -84,7 +84,7 @@ pip install -r requirements.txt
 # Required API keys
 os.environ.setdefault(
     "OPENAI_API_KEY",
-    "YOUR_OPENAI_API_KEY",
+    "YOUR_OPENAI_API_KEY", # Replace with your API Key
 )
 ```
 
