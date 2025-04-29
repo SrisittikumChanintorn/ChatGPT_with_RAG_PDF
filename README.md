@@ -81,11 +81,8 @@ pip install -r requirements.txt
 5. Configure API key 🔑
 
 ```python
-# Required API keys
-os.environ.setdefault(
-    "OPENAI_API_KEY",
-    "YOUR_OPENAI_API_KEY", # Replace with your API Key
-)
+# Set your OpenAI API key
+os.environ["OPENAI_API_KEY"] = "YOUR_API_KEYS"
 ```
 
 
